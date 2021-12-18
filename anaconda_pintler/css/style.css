@@ -1,0 +1,21 @@
+.main-header {
+    box-shadow: 0px 5px 10px #e7e7e7c4;
+}
+
+.menu-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    gap: 10px;
+    margin: 8px;
+    padding: 8px;
+}
+
+.menu-items a {
+    text-decoration: none;
+}
+
+.menu-items .company-logo {
+    margin-right: auto;
+}
